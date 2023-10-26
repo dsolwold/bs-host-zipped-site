@@ -17,3 +17,5 @@ When you want to load a new site, start with the "preload" HTML Widget. If you j
 ![Alt text](image-1.png)
 
 ![Alt text](image-2.png)
+
+![Alt text](image-3.png)
