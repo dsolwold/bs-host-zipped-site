@@ -5,7 +5,7 @@ module.exports = {
   entry: "./server.js", // Entry point of your Express server file
   target: "node", // Set the target environment to Node.js
   output: {
-    filename: "server-bundle.js", // Output bundle file for the server
+    filename: "bs-host-zipped-site.js", // Output bundle file for the server
     path: path.resolve(__dirname, "dist"), // Output directory
   },
   node: {
